@@ -1,0 +1,20 @@
+{
+    "private": true,
+    "version": "0.0.0",
+    "name": "olymp",
+    "jest": {
+        "verbose": true
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "@babel/core": "^7.3.4",
+        "@babel/preset-env": "^7.3.4",
+        "@types/jest": "^24.0.11",
+        "babel-jest": "^24.5.0"
+    },
+    "devDependencies": {
+        "jest": "^24.5.0"
+    }
+}
